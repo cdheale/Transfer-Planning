@@ -1,1 +1,1 @@
-This folder contains documents for CTS-115.
+This folder contains documents for CTS-121.
